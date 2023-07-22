@@ -12,9 +12,11 @@ WatchApp is a simple iOS app that provides both Timer and Stopwatch functionalit
 
 ## Screenshots
 
-<img src="art/screenshot1.png" alt="screenshot 1" width="200"/>
-<img src="art/screenshot2.png" alt="screenshot 2" width="200"/>
-<img src="art/screenshot3.png" alt="screenshot 3" width="200"/>
+<p float="left">
+    <img src="art/screenshot1.png" alt="screenshot 1" width="130"/>
+    <img src="art/screenshot2.png" alt="screenshot 2" width="130"/>
+    <img src="art/screenshot3.png" alt="screenshot 3" width="130"/>
+</p>
 
 ## Installation
 
