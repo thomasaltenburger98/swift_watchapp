@@ -4,6 +4,8 @@
 
 WatchApp is a simple iOS app that provides both Timer and Stopwatch functionality. It allows users to set timers and use a stopwatch to track elapsed time accurately. The app is built using SwiftUI and Combine framework, making it a great example of modern iOS app development.
 
+Creating this app was driven by my desire to learn Swift in a practical manner.
+
 ## Features
 
 - Timer functionality: Users can set timers and receive a notification when the time runs out.
@@ -55,7 +57,7 @@ WatchApp is a simple iOS app that provides both Timer and Stopwatch functionalit
 
 ## Acknowledgments
 
-- Special thanks to https://github.com/sameersyd as he already has written such an app, so I could get inspired by his code. 
+- Special thanks to https://github.com/sameersyd as I took inspiration from his code and integrated my own implementations into the project. 
 
 ## License
 
